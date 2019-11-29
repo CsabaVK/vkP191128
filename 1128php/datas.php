@@ -1,8 +1,9 @@
 <?php
 
 $user = [
-    "mail" => "Kati@gmail.com",
-    "pass" => "KAti123"
+    "mail" => "kati@gmail.com",
+    "pass" => "Kati123"
 ]
+
 
 ?>
